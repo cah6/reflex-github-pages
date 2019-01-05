@@ -4,7 +4,7 @@ base:                    378086
 containers-0.5.11.0-GhhPXbBZ8rf1WBQjAVqqMW:176941
 dependent-map-0.2.4.0-DMPMYlmG4cR7elSMvzoKhG:56126
 dependent-sum-0.4.1-67rHSI4dU4Eh1zqJOAHqu:13199
-ghc-prim:                30253
+ghc-prim:                30276
 ghcjs-base-0.2.0.0-1zqNn6nIHQdAmmILf3TTxp:870
 ghcjs-dom-jsffi-0.9.2.0-GnWNSjUvOFlLG3HjZwWTpH:1213
 ghcjs-prim-0.1.1.0-A1JdvSlggG4AS5cM95oali:7877
@@ -12,11 +12,11 @@ integer-gmp:             6227
 main:                    2189
 primitive-0.6.3.0-EN7G6bIUziYESvlw7SsQBc:609
 ref-tf-0.4.0.1-I3N9TyOnTSb5BoggGxOx1D:201
-reflex-0.5-F0of3DpR7RECyZ4LjNrpSw:914355
+reflex-0.5-F0of3DpR7RECyZ4LjNrpSw:914351
 reflex-dom-core-0.4-2a86yvKhCSZKEuMoYVKfxR:197387
 text-1.2.3.0-DJtdEqIKOtKIC6lWl5JFOu:855
 these-0.7.4-FY8lcpovtsDKIeGwJs4mlh:11522
-transformers-0.5.5.0-8ZjexgxxdBLH8OWn8CZkwx:36684
+transformers-0.5.5.0-8ZjexgxxdBLH8OWn8CZkwx:36560
 
 
 code size per module:
@@ -97,7 +97,7 @@ ghc-prim
     GHC.Classes:                        139
     GHC.IntWord64:                      3052
     GHC.Tuple:                          3932
-    GHC.Types:                          20144
+    GHC.Types:                          20167
 
 ghcjs-base-0.2.0.0-1zqNn6nIHQdAmmILf3TTxp
     GHCJS.Marshal:                      375
@@ -141,7 +141,7 @@ reflex-0.5-F0of3DpR7RECyZ4LjNrpSw
     Reflex.PerformEvent.Base:           4310
     Reflex.PerformEvent.Class:          51214
     Reflex.Requester.Base:              1
-    Reflex.Requester.Class:             637441
+    Reflex.Requester.Class:             637437
     Reflex.Spider.Internal:             15511
     Reflex.TriggerEvent.Base:           832
     Reflex.TriggerEvent.Class:          9264
@@ -161,9 +161,9 @@ these-0.7.4-FY8lcpovtsDKIeGwJs4mlh
 
 transformers-0.5.5.0-8ZjexgxxdBLH8OWn8CZkwx
     Control.Monad.Trans.Reader:         7077
-    Control.Monad.Trans.State.Strict:   29607
+    Control.Monad.Trans.State.Strict:   29483
 
 
 
-packed metadata: 420021
+packed metadata: 419996
 
